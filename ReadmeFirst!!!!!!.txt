@@ -7,4 +7,4 @@
 3.We can then install pygame using pip:
 	python -m pip install -U pygame --user
 
-4.Open game
+4.Open game.py(windows) or run 'python3 game.py'(linux)
