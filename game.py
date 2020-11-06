@@ -4,11 +4,6 @@ S.Y.Computer
 Div-2
 MIS-111803164
 
-2.Prashant Govidrao Shinde
-S.Y.Computer
-Div-2
-MIS-111803167
-
 '''
 
 
